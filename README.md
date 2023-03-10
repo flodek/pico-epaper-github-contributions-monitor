@@ -8,7 +8,4 @@ Raspberry Pi Pico E-Paper GitHub Contributions Monitor
  - Waveshare Pico e-Paper 2.9 (B)
 
 ## How to Cook
-TBD
-
-## Comming Soon
-TBD
+Update main.py with your SSID, WiFi password and github user name
